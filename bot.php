@@ -10,7 +10,7 @@
     <h1>Medical Chatbot</h1>
 
     <!-- Embed Streamlit interface using an iframe -->
-    <iframe src="http://localhost:8501" width="800" height="600"></iframe>
+    <iframe src="https://github.com/imim2003/Medbot/blob/main/Medical.py" width="800" height="600"></iframe>
 
     <script>
         // Example: Send message to Streamlit chatbot
